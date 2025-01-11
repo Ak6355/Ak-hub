@@ -1,1 +1,2 @@
-# Ak-hub
+# YouTube-App
+This a YouTube Clone which is developed in React.js using Rapid API...
